@@ -1,0 +1,24 @@
+// style.css
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  /* Add padding, margins, and background color as desired */
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+#numberInput {
+  width: 200px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  font-size: 1.2rem;
+}
+
+.result {
+  /* Style the success message with desired colors and font styles */
+}
